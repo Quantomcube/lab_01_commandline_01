@@ -268,7 +268,7 @@ pwd
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
-ls -a
+-a
 
 
 ==========
